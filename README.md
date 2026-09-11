@@ -127,7 +127,7 @@ DnDGem is **open source** (MIT). Development happens in this public GitHub repos
 
 Current official npm Alpha: **`0.1.0-alpha.4`** ([release notes](docs/releases/0.1.0-alpha.4.md) — **PUBLISHED**). Install with dist-tag **`alpha`** (`npm install @dndgem/react@alpha`, `@dndgem/vue@alpha`, etc.) — resolves to `0.1.0-alpha.4`. Previous: [0.1.0-alpha.3](docs/releases/0.1.0-alpha.3.md), [0.1.0-alpha.2](docs/releases/0.1.0-alpha.2.md) (superseded), [0.1.0-alpha.1](docs/releases/0.1.0-alpha.1.md). Historical first Alpha: [0.1.0-alpha.0](docs/releases/0.1.0-alpha.0.md). `latest` is **not** the Alpha channel (Core/DOM/React remain `0.1.0-alpha.0`; Vue/Angular/Svelte remain `0.1.0-alpha.2` from first-package npm assignment).
 
-Public product home: **https://dndgem.dev** (see [Public site & domain hosting](docs/architecture/public-site.md)). Source: [github.com/davideagosti-dev/dndgem](https://github.com/davideagosti-dev/dndgem). Playground: **https://playground.dndgem.dev/**.
+Public product home: **https://dndgem.dev** (see [Public site & domain hosting](docs/architecture/public-site.md)). Source: [github.com/DnDGem/dndgem](https://github.com/DnDGem/dndgem). Playground: **https://playground.dndgem.dev/**.
 
 ## Where to start
 
@@ -183,14 +183,14 @@ pnpm --filter @dndgem/www build
 
 ## Feedback / Community
 
-| Need                               | Where                                                                                           |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Reproducible bugs                  | [GitHub Issues](https://github.com/davideagosti-dev/dndgem/issues) (Bug report form)            |
-| Usage / implementation questions   | [GitHub Discussions](https://github.com/davideagosti-dev/dndgem/discussions)                    |
-| Ideas / use cases / Alpha feedback | [GitHub Discussions](https://github.com/davideagosti-dev/dndgem/discussions)                    |
-| Concrete feature requests          | [GitHub Issues](https://github.com/davideagosti-dev/dndgem/issues/new/choose) (Feature request) |
-| Private support                    | https://dndgem.dev/support/ · **support@dndgem.dev**                                            |
-| Security vulnerabilities           | [SECURITY.md](SECURITY.md) · **security@dndgem.dev** (do not open a public Issue)               |
+| Need                               | Where                                                                                 |
+| ---------------------------------- | ------------------------------------------------------------------------------------- |
+| Reproducible bugs                  | [GitHub Issues](https://github.com/DnDGem/dndgem/issues) (Bug report form)            |
+| Usage / implementation questions   | [GitHub Discussions](https://github.com/DnDGem/dndgem/discussions)                    |
+| Ideas / use cases / Alpha feedback | [GitHub Discussions](https://github.com/DnDGem/dndgem/discussions)                    |
+| Concrete feature requests          | [GitHub Issues](https://github.com/DnDGem/dndgem/issues/new/choose) (Feature request) |
+| Private support                    | https://dndgem.dev/support/ · **support@dndgem.dev**                                  |
+| Security vulnerabilities           | [SECURITY.md](SECURITY.md) · **security@dndgem.dev** (do not open a public Issue)     |
 
 Discussions is the planned home for usage questions and broader feedback. Category configuration may follow separately.
 

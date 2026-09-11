@@ -8,7 +8,7 @@ body:
       value: |
         Use this form for a **concrete product feature request**.
 
-        Broader ideas, use cases, and Alpha feedback may be better suited to [GitHub Discussions](https://github.com/davideagosti-dev/dndgem/discussions).
+        Broader ideas, use cases, and Alpha feedback may be better suited to [GitHub Discussions](https://github.com/DnDGem/dndgem/discussions).
 
         Feature requests do **not** automatically enter the roadmap. Deferred capabilities (for example model assistance, hosted AI, or public intelligence packages) should not be treated as planned work.
   - type: textarea
