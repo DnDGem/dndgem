@@ -105,7 +105,7 @@ short-lived publish token → npm registry
 - **No long-lived write token** is used on the primary publish path.
 - Each of `@dndgem/core`, `@dndgem/dom`, `@dndgem/react`, `@dndgem/vue`, `@dndgem/angular`, and `@dndgem/svelte` must have its own Trusted Publisher on npmjs.com pointing at:
   - Provider: GitHub Actions
-  - Owner: `davideagosti-dev`
+  - Owner: `DnDGem`
   - Repository: `dndgem`
   - Workflow filename: `publish.yml`
   - Environment: _(blank / none — no GitHub Environment is required today)_
@@ -129,12 +129,12 @@ Do **not** revoke `NPM_TOKEN` solely because the workflow YAML was migrated.
 Optional CLI equivalent (do not run without maintainer approval / 2FA):
 
 ```bash
-npm trust github @dndgem/core     --repo davideagosti-dev/dndgem --file publish.yml --allow-publish
-npm trust github @dndgem/dom      --repo davideagosti-dev/dndgem --file publish.yml --allow-publish
-npm trust github @dndgem/react    --repo davideagosti-dev/dndgem --file publish.yml --allow-publish
-npm trust github @dndgem/vue      --repo davideagosti-dev/dndgem --file publish.yml --allow-publish
-npm trust github @dndgem/angular  --repo davideagosti-dev/dndgem --file publish.yml --allow-publish
-npm trust github @dndgem/svelte   --repo davideagosti-dev/dndgem --file publish.yml --allow-publish
+npm trust github @dndgem/core     --repo DnDGem/dndgem --file publish.yml --allow-publish
+npm trust github @dndgem/dom      --repo DnDGem/dndgem --file publish.yml --allow-publish
+npm trust github @dndgem/react    --repo DnDGem/dndgem --file publish.yml --allow-publish
+npm trust github @dndgem/vue      --repo DnDGem/dndgem --file publish.yml --allow-publish
+npm trust github @dndgem/angular  --repo DnDGem/dndgem --file publish.yml --allow-publish
+npm trust github @dndgem/svelte   --repo DnDGem/dndgem --file publish.yml --allow-publish
 ```
 
 (`npm trust` requires npm ≥ 11.15.0, package write access, and account 2FA.)

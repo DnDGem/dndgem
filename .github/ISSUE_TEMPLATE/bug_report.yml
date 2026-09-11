@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for reporting a defect. Please keep this form focused on a **reproducible** problem.
 
-        **Security vulnerabilities must not be reported publicly.** See [SECURITY.md](https://github.com/davideagosti-dev/dndgem/blob/develop/SECURITY.md) and email **security@dndgem.dev**.
+        **Security vulnerabilities must not be reported publicly.** See [SECURITY.md](https://github.com/DnDGem/dndgem/blob/develop/SECURITY.md) and email **security@dndgem.dev**.
   - type: textarea
     id: description
     attributes:

@@ -9,7 +9,7 @@ const dist = join(root, 'dist');
 /** Bump these when preparing the next public Alpha website sync. */
 const CURRENT_ALPHA = '0.1.0-alpha.4';
 const STALE_CURRENT_ALPHA = '0.1.0-alpha.3';
-const GITHUB_REPO = 'https://github.com/davideagosti-dev/dndgem';
+const GITHUB_REPO = 'https://github.com/DnDGem/dndgem';
 const PLAYGROUND = 'https://playground.dndgem.dev/';
 const ARTICLE_REL = 'articles/geometrically-fits-content-remains-useful/index.html';
 const ARTICLE_CANONICAL = 'https://dndgem.dev/articles/geometrically-fits-content-remains-useful/';
