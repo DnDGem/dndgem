@@ -13,7 +13,7 @@ Authoritative **current** public identity for DnDGem. Prefer this over older Fin
 | npm scope         | `@dndgem` (core, dom, react, vue, angular, svelte)                          |
 | Product support   | `support@dndgem.dev` · https://dndgem.dev/support/                          |
 | Security          | `security@dndgem.dev`                                                       |
-| Repository        | `davideagosti-dev/dndgem` (**PUBLIC** / open source)                        |
+| Repository        | `DnDGem/dndgem` (**PUBLIC** / open source)                                  |
 | Published Alpha   | `0.1.0-alpha.4` / dist-tag `alpha` (published)                              |
 | Product maturity  | BETA-CANDIDATE (Beta readiness authorized; Beta release **not** authorized) |
 | Beta claim policy | [Beta Claim & Support Policy](./beta-claim-support-policy.md)               |

@@ -56,7 +56,7 @@ Flutter compatibility may be considered architecturally (types, ADRs), but not i
 
 Intelligence is optional and outside the critical deterministic path; Phase 4 shipped deterministic planner surfaces in `0.1.0-alpha.4`. Preferred home: optional intelligence layer depending on Core (ADR-0018), not framework adapters.
 
-Repository identity is **public open source** (`davideagosti-dev/dndgem`). GitHub visibility flip (PRIVATE → PUBLIC) requires an explicit Product Owner Visibility Gate — do not change visibility without that authorization.
+Repository identity is **public open source** (`DnDGem/dndgem`). GitHub visibility flip (PRIVATE → PUBLIC) requires an explicit Product Owner Visibility Gate — do not change visibility without that authorization.
 
 Public Alpha installs must use **`@alpha`** (`0.1.0-alpha.4` is the current official public Alpha). Do not document bare / `latest` installs as the supported Alpha path.
 

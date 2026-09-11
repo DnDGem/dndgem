@@ -70,7 +70,7 @@ Module shape:
 | Angular                    | Peer `@angular/core@^20 \|\| ^21 \|\| ^22`. Client mount required. Universal **not** validated. Zoneless-compatible.                                              |
 | Positioning                | Container is a positioned containing block; items are absolutely positioned from resolved geometry                                                                |
 
-Repository metadata `repository.url` points at `https://github.com/davideagosti-dev/dndgem`. The GitHub repository is currently **PRIVATE**; those links are source-of-truth for maintainers, not a claim of public accessibility. Package `homepage` / public support point at **https://dndgem.dev** (see [Public site & domain hosting](./public-site.md)).
+Repository metadata `repository.url` points at `https://github.com/DnDGem/dndgem`. The GitHub repository is **PUBLIC**; those links identify the canonical open-source repository. Package `homepage` / public support point at **https://dndgem.dev** (see [Public site & domain hosting](./public-site.md)).
 
 ## Stability policy (0.x Alpha)
 
